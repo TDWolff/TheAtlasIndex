@@ -1,15 +1,9 @@
-title: The Atlas Index
+title: Movie Blogs
 description: "August 2023 to June 2024"
-owner_name: TDWolff
+owner_name: NART
 github_username: TDWolff
-github_repo: "TheAtlasIndex"
-baseurl: "/theatlasindex"
-remote_theme: jekyll/minima
-minima:
-  social_links:
-    - { platform: github, user_url: "https://github.com/nighthawkcoders"}
-    - { platform: github, user_url: "https://github.com/Tirth-Thakkar"}
-    - { platform: github, user_url: "https://github.com/h4seeb-cmd"}
+baseurl: "/NART_Movie"
+remote_theme: pages-themes/midnight@v0.2.0
 # remote_theme: pages-themes/dinky@v0.2.0
 # remote_theme: pages-themes/minimal@v0.2.0
 # remote_theme: pages-themes/hacker@v0.2.0
@@ -18,3 +12,4 @@ minima:
 plugins:
 - jekyll-remote-theme
 future: true
+
